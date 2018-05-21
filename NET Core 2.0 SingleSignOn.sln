@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2015
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NET Core 2.0 SignleSignOn", "NET Core 2.0 SignleSignOn\NET Core 2.0 SignleSignOn.csproj", "{6748C11B-ACB2-4A3A-8030-4876826BF413}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NET Core 2.0 SingleSignOn", "NET Core 2.0 SingleSignOn\NET Core 2.0 SingleSignOn.csproj", "{6748C11B-ACB2-4A3A-8030-4876826BF413}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
